@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/BorderlessDialog.iml" filepath="$PROJECT_DIR$/BorderlessDialog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Android-Borderless-Dialog.iml" filepath="$PROJECT_DIR$/Android-Borderless-Dialog.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>

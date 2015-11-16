@@ -19,7 +19,7 @@ public class MainActivity extends AppCompatActivity {
             public void onClick(View view) {
                 BorderlessDialogFragment dFragment = new BorderlessDialogFragment();
 
-                // Show DialogFragment
+                dFragment.setCancelable(false); //don't close when touch outside
                 dFragment.show(getSupportFragmentManager(), "Dialog Fragment");
             }
         });
